@@ -1,13 +1,31 @@
-# Sample Hardhat Project
+ # TudorCoin (TDC)
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+TudorCoin (TDC) is an ERC-20 token deployed on the Sepolia Testnet for learning and experimentation.
 
-Try running some of the following tasks:
+🚀 Features
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+ERC-20 Compliant Token
+
+Deployable on Ethereum & Testnets
+
+Transferable between wallets
+
+Compatible with Uniswap & DEXs
+
+📜 Smart Contract
+
+Contract Address
+
+0x2be338F55649AE3CC6B115e6619172e0E6152bF9
+
+📌 Find it on Sepolia Etherscan: [Sepolia Etherscan](https://sepolia.etherscan.io/token/0x2be338F55649AE3CC6B115e6619172e0E6152bF9)
+
+Token Details
+
+Name: TudorCoin
+
+Symbol: TDC
+
+Decimals: 18
+
+Total Supply: 1,000,000,000,000,000,000 TDC
